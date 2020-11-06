@@ -87,7 +87,7 @@ while(i<3)
 if(x1>x2)
 	System.out.println("You win by:"+x1+"-"+x2);
 else if(x2>x1)
-	System.out.println("Computer wins:"+x1+"-"+x2);
+	System.out.println("Computer wins:"+x1+"-"+x2); 
 	}
 
 }
