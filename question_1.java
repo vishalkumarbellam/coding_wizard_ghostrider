@@ -1,4 +1,4 @@
-package coding_wizard;
+package coding_wizard; 
 import java.util.*;
 public class question_1 {
 
