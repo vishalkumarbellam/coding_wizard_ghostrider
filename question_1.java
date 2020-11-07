@@ -24,7 +24,7 @@ while(i<s.length())
 	}
 	i++;
 }
-
+System.out.println(ns);
 	}
 
 }
